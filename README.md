@@ -40,3 +40,5 @@ With AI rapidly reshaping the software industry, understanding what drives devel
 https://survey.stackoverflow.co/
 Download 2025 versions to run the code, no file name is changed. Can't upload csv to Github because of size.
 
+## Acknowledgments: 
+StackOverflow for making the survey data publicly available. Udacity Data Science Nanodegree for project guidance.
