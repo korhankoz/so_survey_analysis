@@ -16,8 +16,8 @@ With AI rapidly reshaping the software industry, understanding what drives devel
 
 | File | Description |
 |------|-------------|
-| `notebook.ipynb` | Main Jupyter notebook containing all analysis, visualizations, and modeling |
-| `survey_results_public.csv` | Raw survey data from StackOverflow 2025 (not included, download below) |
+| `SurveyAnalysis.ipynb` | Main Jupyter notebook containing all analysis, visualizations, and modeling |
+| `survey_results_public.csv` | Raw survey data from StackOverflow 2025|
 | `survey_results_schema.csv` | Column descriptions for the survey dataset |
 | `README.md` | Project overview and documentation |
 
@@ -32,7 +32,7 @@ With AI rapidly reshaping the software industry, understanding what drives devel
 
 - **Salary, years of experience, and developer type** are the strongest predictors of job satisfaction — far outweighing AI-related factors
 - **Daily AI users report slightly higher satisfaction** (%52.2 High) compared to non-users (%50.7 High), but the difference is modest
-- **AIThreat is the most relevant AI feature** (correlation: -0.064), suggesting that fear of AI has a slightly negative association with job satisfaction — though the effect is still weak
+- **AIThreat is the most relevant AI feature** (correlation: -0.073), suggesting that fear of AI has a slightly negative association with job satisfaction — though the effect is still weak
 - **The classification model achieved 52% accuracy** (vs. 33% random baseline) in predicting Low / Medium / High satisfaction, performing best on High satisfaction cases (F1: 0.61)
 - The overall finding: **job satisfaction is complex and personal** — demographics and compensation explain more than AI attitudes do
 
